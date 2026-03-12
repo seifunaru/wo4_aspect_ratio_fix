@@ -8,7 +8,7 @@ This is a very early build with just the most minor and simple patches.
 ## Features
 
 - Hooks to the game camera's projection matrix and stretches the projection to a given aspect ratio.
-- Scans the current screen resolution to autommaticaly figure out the aspect value it must patch.
+- Scans the current screen resolution to automaticaly figure out the aspect value it must patch.
 
 Cons:
 - It doesn't apply any patches to the actual rendering buffer.
